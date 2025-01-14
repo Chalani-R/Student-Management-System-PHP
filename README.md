@@ -1,1 +1,2 @@
 # Student Management System
+This project is a *Student Management System* built using *HTML, **CSS, **JavaScript, **PHP, and **MySQL. It allows admins to manage student information efficiently. The system provides two types of access: **Admin* and *User*.
